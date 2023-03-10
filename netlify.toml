@@ -1,0 +1,8 @@
+# [functions]
+# directory = ""
+# external_node_modules = []
+# included_files = []
+
+[[edge_functions]]
+  function = "hello-edge"
+  path = "/hello-edge"

@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.enablePaths": ["netlify/edge-functions/", ".netlify/edge/functions/"],
+  "deno.internalDebug": false
+}
